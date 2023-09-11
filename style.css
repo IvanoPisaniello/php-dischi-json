@@ -1,0 +1,27 @@
+body {
+    background-color: #1C2D3C;
+}
+
+.card {
+    height: 350px;
+    width: 250px;
+    background-color: #102030;
+}
+
+
+
+.image-card {
+    height: 150px;
+    width: 150px;
+}
+
+header {
+    height: 60px;
+    background-color: #102030;
+}
+
+.logo {
+    filter: invert();
+    height: 40px;
+    margin-left: 100px;
+}
